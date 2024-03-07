@@ -1,4 +1,4 @@
-﻿id,first name,last name,dateOfBirth,Flag1,Flag2
+id,firstName,lastName,dateOfBirth,flag1,flag2
 10000001,Jane1,Doe1,2/2/87,Y,N
 10000002,Jane2,Doe2,2/3/87,Y,N
 10000003,Jane3,Doe3,2/4/87,Y,N
